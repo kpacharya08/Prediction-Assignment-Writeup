@@ -1,1 +1,1 @@
-# Prediction-Assignment-Writeup
+Practical Machine Learning Course Project.Rmd
